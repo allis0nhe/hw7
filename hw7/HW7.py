@@ -141,7 +141,7 @@ def position_birth_search(position, age, cur, conn):
 # and then write at least 2 meaningful test cases for each of them. 
 
 #     The first function takes 3 arguments: JSON data, 
-#     the database cursor, and the database connection object.
+#     the database cursor, nd the database connection object.
 #     It makes a table with 2 columns:
 #         id (datatype: int; Primary key) -- note this comes from the JSON
 #         name (datatype: text) -- note: use the full, not short, name
