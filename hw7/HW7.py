@@ -47,7 +47,7 @@ def make_positions_table(data, cur, conn):
 #         name (datatype: txt)
 #         position_id (datatype: integer)
 #         birthyear (datatype: int)
-#         nationality (datatype: text)
+#         nationality datatype: text)
 #     To find the position_id for each player, you will have to look up 
 #     the position in the Positions table we 
 #     created for you -- see make_positions_table above for details.
