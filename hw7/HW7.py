@@ -44,7 +44,7 @@ def make_positions_table(data, cur, conn):
 #     and loads them into a database table called 'Players'
 #     with the following columns:
 #         id ((datatype: int; Primary key) - note this comes from the JSON
-#         name (datatype: text)
+#         name (datatype: txt)
 #         position_id (datatype: integer)
 #         birthyear (datatype: int)
 #         nationality (datatype: text)
