@@ -112,7 +112,7 @@ def birthyear_nationality_search(age, country, cur, conn):
 
     # This function takes 4 arguments as input: 
     # a position (string), 
-    # age (int), the database cursor,
+    # age (int), the databae cursor,
     # and the database connection object. 
 
     # It selects all the players who play the position
